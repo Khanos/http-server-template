@@ -4,7 +4,7 @@
   "description": "Simple http server for hosting projects",
   "main": "index.html",
   "scripts": {
-    "test": "NA"
+    "start": "npm install && grunt server"
   },
   "repository": {
     "type": "git",
